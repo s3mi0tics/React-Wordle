@@ -77,17 +77,17 @@ h1 {
   line-height: 50px;
 }
 
-keypad > div.green {
+.keypad > div.green {
   background: #5ac85a;
   color: #fff;
   transition: all .03s ease-in;
 }
-keypad > div.yellow {
+.keypad > div.yellow {
   background: #e2cc68;
   color: #fff;
   transition: all .03s ease-in;
 }
-keypad > div.green {
+.keypad > div.green {
   background: #a1a1a1;
   color: #fff;
   transition: all .03s ease-in;
